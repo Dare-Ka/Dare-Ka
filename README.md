@@ -12,7 +12,7 @@ I\`ve been learning to code for 5 years, after switching career. I started with 
 * 🚀  I'm currently working on [AutoSales](http://github.com/Dare-Ka/AutoSales)
 * 🧠  I'm learning FastAPI and Scrapy
 * 🤝  I'm open to collaborating on interesting projects in backend or web development
-* ⚡  telegram: @dare-ka
+* ⚡  
 
 ### Skills
 
