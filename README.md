@@ -6,7 +6,7 @@ Python backend developer, Web developer
 
 I\`ve been learning to code for 5 years, after switching career. I started with Python and really found a passion for backend development
 
-* 🌍  I'm based in Yoshkar-Ola, Russia
+* 🌍  I'm based in Saint-Petersburg, Russia
 * 🖥️  See my portfolio at [Repositories](http://github.com/Dare-Ka?tab=repositories)
 * ✉️  You can contact me at [a.zurnaaaa@gmail.com](mailto:a.zurnaaaa@gmail.com)
 * 🚀  I'm currently working on [AutoSales](http://github.com/Dare-Ka/AutoSales)
