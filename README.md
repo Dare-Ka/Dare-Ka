@@ -8,7 +8,7 @@ I\`ve been learning to code for 5 years, after switching career. I started with 
 
 * 🌍  I'm based in Saint-Petersburg, Russia
 * 🖥️  See my portfolio at [Repositories](http://github.com/Dare-Ka?tab=repositories)
-* ✉️  You can contact me at [a.zurnaaaa@gmail.com](mailto:a.zurnaaaa@gmail.com)
+* ✉️  You can contact me at [dare_k@icloud.com](mailto:dare_k@icloud.com)
 * 🚀  I'm currently working on [AutoSales](http://github.com/Dare-Ka/AutoSales)
 * 🧠  I'm learning FastAPI and Scrapy
 * 🤝  I'm open to collaborating on interesting projects in backend or web development
